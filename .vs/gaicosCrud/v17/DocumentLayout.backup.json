@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\viewmodels\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\viewmodels\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\controllers\\pessoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,20 +19,12 @@
       "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|c:\\users\\gaicos\\source\\repos\\gaicoscrud\\gaicoscrud\\views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\views\\pessoa\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\models\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|c:\\users\\gaicos\\source\\repos\\gaicoscrud\\gaicoscrud\\viewmodels\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\viewmodels\\pessoaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicoscrud\\scripts\\vue-the-mask.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{30841DF0-8293-4E0F-AE99-39E208FACE1A}|gaicosCrud\\gaicosCrud.csproj|solutionrelative:gaicoscrud\\scripts\\vue-the-mask.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,36 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "vue-the-mask.js",
-              "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Scripts\\vue-the-mask.js",
-              "RelativeDocumentMoniker": "gaicosCrud\\Scripts\\vue-the-mask.js",
-              "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Scripts\\vue-the-mask.js",
-              "RelativeToolTip": "gaicosCrud\\Scripts\\vue-the-mask.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAD/BAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-09-22T01:08:45.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml*",
-              "RelativeToolTip": "gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml*",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIUAAAATAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml",
+              "RelativeToolTip": "gaicosCrud\\Views\\Pessoa\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-19T09:41:24.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "gaicosCrud\\Views\\Shared\\_Layout.cshtml",
@@ -80,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Models\\Conexao.cs",
               "RelativeDocumentMoniker": "gaicosCrud\\Models\\Conexao.cs",
@@ -93,39 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PessoaController.cs",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Controllers\\PessoaController.cs",
               "RelativeDocumentMoniker": "gaicosCrud\\Controllers\\PessoaController.cs",
               "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Controllers\\PessoaController.cs",
               "RelativeToolTip": "gaicosCrud\\Controllers\\PessoaController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAWwDEAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAMwB4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T08:15:39.697Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PessoaViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\ViewModels\\PessoaViewModel.cs",
               "RelativeDocumentMoniker": "gaicosCrud\\ViewModels\\PessoaViewModel.cs",
               "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\ViewModels\\PessoaViewModel.cs",
               "RelativeToolTip": "gaicosCrud\\ViewModels\\PessoaViewModel.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAUwEoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwDoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T12:05:53.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "gaicosCrud\\Models\\Pessoa.cs",
               "ToolTip": "C:\\Users\\Gaicos\\source\\repos\\gaicosCrud\\gaicosCrud\\Models\\Pessoa.cs",
               "RelativeToolTip": "gaicosCrud\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-19T10:42:20.278Z",
               "EditorCaption": ""
